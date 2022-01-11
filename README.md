@@ -1,1 +1,1 @@
-refactor: simplify state management\n
+refactor: simplify state management\nfix: resolve null pointer exception in parser\n
